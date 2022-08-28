@@ -1,0 +1,8 @@
+.intro {
+    display: grid;
+    grid-template-rows: 58px 208px 90px;
+    max-width: 690px;
+    margin-left: 148px;
+    padding: 0;
+    gap: 40px
+}
